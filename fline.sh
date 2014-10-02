@@ -1,5 +1,6 @@
 #!/bin/bash
-#: Title : Hello World
+
+#: Title : 
 #: Date : 02/10/2014
 #: Author : Ronan H
 #: Version :
@@ -7,8 +8,6 @@
 #: Options : 
 
 
-$1= "world"
 
-printf "Hello, %s!\n" "$1"
 
 
