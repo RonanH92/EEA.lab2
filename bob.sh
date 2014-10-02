@@ -1,5 +1,5 @@
 #!/bin/bash
-#: Title : Hello World
+#: Title : Bob
 #: Date : 02/10/2014
 #: Author : Ronan H
 #: Version :
@@ -7,8 +7,7 @@
 #: Options : 
 
 
-printf "%s\n" "Hello, World!" 
-printf "This script is called %s\n" $0
+printf "Hello %s nice to meet you!\n" $1
 
 
 
